@@ -10,6 +10,9 @@ yarn dev
 pnpm dev
 ```
 
+Before runing make sure to install tailwindcss // cmd => npm install tailwindcss
+ 
+
 ## ABOUT PROJECT
 
 The CRUD Task Manager is a comprehensive task management application designed to streamline your productivity workflow. With its intuitive interface and robust features, it empowers users to create, read, update, and delete tasks effortlessly. Whether you're a solo entrepreneur, a team leader, or a busy professional, this tool offers the flexibility and functionality you need to stay organized and focused.
